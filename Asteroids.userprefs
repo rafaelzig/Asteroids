@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AlienController.cs" Line="23" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="96" Column="2" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="22" Column="19" />
+      <File FileName="Assets\Scripts\GameStarter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScreenFader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShotController.cs" Line="1" Column="19" />
+      <File FileName="Assets\Scripts\DodgeController.cs" Line="1" Column="19" />
+      <File FileName="Assets\Scripts\AsteroidController.cs" Line="1" Column="2" />
+      <File FileName="Assets\Scripts\Teleporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextFader.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Documents\Workspace\Asteroids\Assets\Scripts\GameController.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
